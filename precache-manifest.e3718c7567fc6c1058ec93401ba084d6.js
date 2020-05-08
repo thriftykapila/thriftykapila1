@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "335740cbee564161c28161a07b484d0f",
+    "revision": "1f2bf5db5dd9e7597fcc418862342fc8",
     "url": "/thriftykapila/index.html"
   },
   {
-    "revision": "2bec8d02571b84af0c35",
+    "revision": "2c636f8ce1c4b1d1ea29",
     "url": "/thriftykapila/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "670282228877a85e58ad",
-    "url": "/thriftykapila/static/js/2.2bc44236.chunk.js"
+    "revision": "b9533bf0c1e3ecd89201",
+    "url": "/thriftykapila/static/js/2.b92ce6d6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/thriftykapila/static/js/2.2bc44236.chunk.js.LICENSE.txt"
+    "url": "/thriftykapila/static/js/2.b92ce6d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2bec8d02571b84af0c35",
-    "url": "/thriftykapila/static/js/main.f3c54b9d.chunk.js"
+    "revision": "2c636f8ce1c4b1d1ea29",
+    "url": "/thriftykapila/static/js/main.969bb7c4.chunk.js"
   },
   {
     "revision": "de979c502dee378b2a27",
