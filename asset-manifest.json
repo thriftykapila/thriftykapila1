@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thriftykapila/static/css/main.5ecd60fb.chunk.css",
+    "main.css": "/thriftykapila/static/css/main.e44c4348.chunk.css",
     "main.js": "/thriftykapila/static/js/main.5d14c1a8.chunk.js",
     "main.js.map": "/thriftykapila/static/js/main.5d14c1a8.chunk.js.map",
     "runtime-main.js": "/thriftykapila/static/js/runtime-main.27d88c9c.js",
@@ -8,15 +8,15 @@
     "static/js/2.c246efea.chunk.js": "/thriftykapila/static/js/2.c246efea.chunk.js",
     "static/js/2.c246efea.chunk.js.map": "/thriftykapila/static/js/2.c246efea.chunk.js.map",
     "index.html": "/thriftykapila/index.html",
-    "precache-manifest.8b00f2a123892db98b5c8cf9514463fc.js": "/thriftykapila/precache-manifest.8b00f2a123892db98b5c8cf9514463fc.js",
+    "precache-manifest.c2c3bdec6ba1e95b4f88f751fced73ab.js": "/thriftykapila/precache-manifest.c2c3bdec6ba1e95b4f88f751fced73ab.js",
     "service-worker.js": "/thriftykapila/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/thriftykapila/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.e44c4348.chunk.css.map": "/thriftykapila/static/css/main.e44c4348.chunk.css.map",
     "static/js/2.c246efea.chunk.js.LICENSE.txt": "/thriftykapila/static/js/2.c246efea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27d88c9c.js",
     "static/js/2.c246efea.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
+    "static/css/main.e44c4348.chunk.css",
     "static/js/main.5d14c1a8.chunk.js"
   ]
 }
