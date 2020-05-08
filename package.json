@@ -2,7 +2,7 @@
   "name": "thriftykapila",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://thriftykapila.github.io",
+  "homepage": "http://thriftykapila.github.io/thriftykapila",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
