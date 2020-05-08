@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thriftykapila/precache-manifest.2bd0f168bd23fe73cd2689057f461dd7.js"
+  "/thriftykapila/precache-manifest.fc668bd06279925f94ed07acdd67dd74.js"
 );
 
 self.addEventListener('message', (event) => {
