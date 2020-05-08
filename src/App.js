@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import AboutPage from './components/AboutPage'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <header className="App-header">
         <p>
           Hello World
+          <AboutPage/>
         </p>
         
       </header>
