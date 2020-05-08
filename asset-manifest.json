@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/thriftykapila/static/css/main.98263b76.chunk.css",
-    "main.js": "/thriftykapila/static/js/main.c5530661.chunk.js",
-    "main.js.map": "/thriftykapila/static/js/main.c5530661.chunk.js.map",
+    "main.js": "/thriftykapila/static/js/main.8c13f331.chunk.js",
+    "main.js.map": "/thriftykapila/static/js/main.8c13f331.chunk.js.map",
     "runtime-main.js": "/thriftykapila/static/js/runtime-main.27d88c9c.js",
     "runtime-main.js.map": "/thriftykapila/static/js/runtime-main.27d88c9c.js.map",
-    "static/js/2.d7cef3a9.chunk.js": "/thriftykapila/static/js/2.d7cef3a9.chunk.js",
-    "static/js/2.d7cef3a9.chunk.js.map": "/thriftykapila/static/js/2.d7cef3a9.chunk.js.map",
+    "static/js/2.43b16f94.chunk.js": "/thriftykapila/static/js/2.43b16f94.chunk.js",
+    "static/js/2.43b16f94.chunk.js.map": "/thriftykapila/static/js/2.43b16f94.chunk.js.map",
     "index.html": "/thriftykapila/index.html",
-    "precache-manifest.e1fe74bd5b5d67adeb20f83e8e2ec0e6.js": "/thriftykapila/precache-manifest.e1fe74bd5b5d67adeb20f83e8e2ec0e6.js",
+    "precache-manifest.47b252da7562e77e9742a45bc4161b0b.js": "/thriftykapila/precache-manifest.47b252da7562e77e9742a45bc4161b0b.js",
     "service-worker.js": "/thriftykapila/service-worker.js",
     "static/css/main.98263b76.chunk.css.map": "/thriftykapila/static/css/main.98263b76.chunk.css.map",
-    "static/js/2.d7cef3a9.chunk.js.LICENSE.txt": "/thriftykapila/static/js/2.d7cef3a9.chunk.js.LICENSE.txt"
+    "static/js/2.43b16f94.chunk.js.LICENSE.txt": "/thriftykapila/static/js/2.43b16f94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27d88c9c.js",
-    "static/js/2.d7cef3a9.chunk.js",
+    "static/js/2.43b16f94.chunk.js",
     "static/css/main.98263b76.chunk.css",
-    "static/js/main.c5530661.chunk.js"
+    "static/js/main.8c13f331.chunk.js"
   ]
 }
